@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Markets,Leaderboard,Rewards,Vaults",
   "VITE_CUSTOM_MENUS": "",
-  "VITE_ENABLE_CAMPAIGNS": "false",
+  "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "https://x.com/FINANCIALFREDO?t=Zl7BAZqUr5X0NYb5oijE-Q&s=09",
